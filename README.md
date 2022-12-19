@@ -1,6 +1,6 @@
-## <b>𝙈𝙏 𝘼𝙪𝙩𝙤𝘾𝙖𝙥𝙩𝙞𝙤𝙣 𝘽𝙤𝙩</b>
+## <b>𝙆𝙒𝙄𝘾 𝘼𝙪𝙩𝙤𝘾𝙖𝙥𝙩𝙞𝙤𝙣 𝘽𝙤𝙩</b>
 
-This Repo is Telegram Channel Code to help build a bot that automatically adds captions to files added to a Telegram channel
+This Repo is Telegram Channel Code to help build a bot that automatically adds captions to files added to a Telegram channel Created By motech Remastered By KwicBOTS
 
 
   </a>
