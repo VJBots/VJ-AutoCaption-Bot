@@ -1,30 +1,3 @@
-<p align="center">
-
-  <a href="https://youtube.com/@kwicbotupdates">
-
-    <img src="https://te.legra.ph/file/8dfe7256883cbc0190478.jpg">
-
-  </a>
-
-  <p align="center">
-
-    <b>𝙆𝙒𝙄𝘾 𝘼𝙪𝙩𝙤𝘾𝙖𝙥𝙩𝙞𝙤𝙣 𝘽𝙤𝙩</b>
-    <br />
-
-    <a href="https://t.me/kwicautocaptionbot"><strong>Kwic auto caption Bot »</strong></a>
-
-    <br />
-
-  </p>
-
-  <p align="center">
-
-  <a href="https://youtube.com/@kwicbotupdates">
-
-        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
-
-  </p>
-
 ## <b>𝙆𝙒𝙄𝘾 𝘼𝙪𝙩𝙤𝘾𝙖𝙥𝙩𝙞𝙤𝙣 𝘽𝙤𝙩</b>
 
 This Repo is Telegram Channel Code to help build a bot that automatically adds captions to files added to a Telegram channel Created By motech Remastered By KwicBOTS
