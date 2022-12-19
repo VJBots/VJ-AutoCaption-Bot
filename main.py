@@ -19,8 +19,8 @@ start_message = """
 <b>@kwicbotupdates</b>"""
 
 about_message = """
-<b>• Name : [AutoCaption V1](t.me/{username})</b>
-<b>• Developer : [KWIC](https://t.me/kwicbotupdates)
+<b>• Name : <a href=https://t.me/kwic2002>kwic autocaption</a></b>
+<b>• Developer : <a href=https://t.me/kwicbotupdates>[KWICBOT UPDATES]</a></b>
 <b>• Language : Python3</b>
 <b>• Library : Pyrogram v{version}</b>
 <b>• Updates : <a href=https://t.me/kwicbotupdates>Click Here</a></b>
