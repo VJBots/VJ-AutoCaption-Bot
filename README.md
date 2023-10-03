@@ -1,17 +1,17 @@
-## <b>𝙆𝙒𝙄𝘾 𝘼𝙪𝙩𝙤𝘾𝙖𝙥𝙩𝙞𝙤𝙣 𝘽𝙤𝙩</b>
+## <b>VJ 𝘼𝙪𝙩𝙤𝘾𝙖𝙥𝙩𝙞𝙤𝙣 𝘽𝙤𝙩</b>
 
-This Repo is Telegram Channel Code to help build a bot that automatically adds captions to files added to a Telegram channel Created By motech Remastered By KwicBOTS
+This Repo is Telegram Channel Code to help build a bot that automatically adds captions to files added to a Telegram channel Created By motech Remastered By VJ_BOTZ
 
 
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/PR0FESS0R-99/AutoCaptionBot-V1/stargazers">
+  <a href="https://github.com/VJBots/VJ-AutoCaption-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/PR0FESS0R-99/AutoCaptionBot-V1?style=social">
 
   </a>
   
-  <a href="https://github.com/PR0FESS0R-99/AutoCaptionBot-V1/fork">
+  <a href="https://github.com/VJBots/VJ-AutoCaption-Bot/fork">
     <img src="https://img.shields.io/github/forks/PR0FESS0R-99/AutoCaptionBot-V1?label=Fork&style=social">
 
   </a>  
@@ -19,14 +19,14 @@ This Repo is Telegram Channel Code to help build a bot that automatically adds c
 
 
 ### Deploy To Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/AutoCaptionBot-V1)                     
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VJBots/VJ-AutoCaption-Bot)                     
 
 ### Simple Variables 😉
 
-* `app_id` : Get this value from [telegram.org](https://my.telegram.org/apps) or [@MT_MyTelegramOrg_Bot](https://t.me/MT_MyTelegramOrg_Bot) .
-* `api_hash` : Get this value from [telegram.org](https://my.telegram.org/apps) or [@MT_MyTelegramOrg_Bot](https://t.me/MT_MyTelegramOrg_Bot) .
+* `app_id` : Get this value from [telegram.org](https://my.telegram.org/apps).
+* `api_hash` : Get this value from [telegram.org](https://my.telegram.org/apps) .
 * `bot_token` : Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token .
-* `custom_caption` : your caption. add {file_name} to get file original name. More info to watch [YT TUTORIAL](https://github.com/PR0FESS0R-99) .
+* `custom_caption` : your caption. add {file_name} to get file original name. More info to watch [YT TUTORIAL](https://youtube.com/@Tech_VJ) .
 
 ### Made With 
 
@@ -41,11 +41,11 @@ This Repo is Telegram Channel Code to help build a bot that automatically adds c
 
 ### Developer & Support
 
-[Telegram Channel](https://Telegram.dog/Mo_Tech_YT)
+[Telegram Channel](https://Telegram.dog/VJ_Botz)
 
-[Follow On InstaGram](https://www.instagram.com/mrk_yt_)
+[Follow On InstaGram](https://www.instagram.com/tech.vj)
 
-[Subscribe YouTube Channel](https://youtube.com/c/MoTech_YT)
+[Subscribe YouTube Channel](https://youtube.com/@Tech_VJ)
 
 ### Credits
 
