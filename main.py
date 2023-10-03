@@ -16,7 +16,7 @@ start_message = """
 <b>👋Hello {}</b>
 <b>I am an AutoCaption bot</b>
 <b>All you have to do is add me to your channel and I will show you my power</b>
-<b>@kwicbotupdates</b>"""
+<b>@VJ_Botz</b>"""
 
 about_message = """
 <b>• Name : <a href=https://t.me/VJ_Botz>VJ AutoCaption</a></b>
