@@ -1,6 +1,6 @@
 {
-    "name": "AutoCaptionBot-V1",
-    "description": "Auto Caption BoT V1 @Pr0fess0r-99",
+    "name": "VJ-AutoCaption-Bot",
+    "description": "Auto Caption BoT V1 @KingVJ01",
     "logo": "https://graph.org/file/a3a93ffb7283578499cce.jpg",
     "keywords": [
         "Private",
@@ -8,16 +8,16 @@
         "Caption",
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/AutoCaptionBot-V1",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "https://youtube.com/@Tech_VJ",
+    "repository": "https://github.com/VJBots/VJ-AutoCaption-Bot",
+    "success_url": "https://youtube.com/@Tech_VJ",
     "env": {
         "app_id": {
-            "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Your APP ID From my.telegram.org",
             "value": ""
         },
         "api_hash": {
-            "description": "Your API Hash From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "Your API Hash From my.telegram.org",
             "value": ""
         },
         "bot_token": {
